@@ -1,0 +1,15 @@
+[project]
+name = "king-safety"
+version = "0.1.0"
+description = "Unbreakable AI safety stack — no permission, no mercy."
+authors = [{name = "LHMisme420", email = "you@github"}]
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["king_safety"]

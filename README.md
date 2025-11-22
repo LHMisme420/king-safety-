@@ -1,5 +1,4 @@
-# king-safety-
-King of Safety
+
 # King Safety
 
 we’re not asking permission.  
